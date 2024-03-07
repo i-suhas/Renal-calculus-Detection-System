@@ -1,4 +1,4 @@
-# kidney-stone-detection
+# Renal calculus detection system
 
 detecting the presence of stone in a kidney using image processing technique
 1. Open the matlab code.m file in matlab.
