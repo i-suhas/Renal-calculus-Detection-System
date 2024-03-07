@@ -1,6 +1,6 @@
 # Renal calculus detection system
 
-detecting the presence of stone in a kidney using image processing technique
+Detecting the presence of stone in a kidney using image processing technique
 1. Open the matlab code.m file in matlab.
 2. Run the code.
 3. If your using a offline matlab the matlab will ask for image processing libraries.
